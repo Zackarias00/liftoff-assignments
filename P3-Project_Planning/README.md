@@ -7,8 +7,12 @@ For this assignment, you'll create some initial plans for your project.
 ## Submission Instructions
 
 ### Wireframes
-
-Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
+Landing page:
+https://github.com/Zackarias00/liftoff-assignments/blob/master/P3-Project_Planning/PXL_20210812_165829980.jpg
+Sign in/Register:
+https://github.com/Zackarias00/liftoff-assignments/blob/master/P3-Project_Planning/PXL_20210813_001931691.jpg
+Profile page:
+https://github.com/Zackarias00/liftoff-assignments/blob/master/P3-Project_Planning/PXL_20210813_002233428.jpg
 
 ### Project Tracker
 
